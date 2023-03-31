@@ -58,7 +58,7 @@ export default {
       this.visible = true
     },
     handlerChange (expression) {
-      console.log('handlerChange', expression)
+      console.log('handlerChange1', expression)
       this.expression = expression
       this.visible = false
     }
