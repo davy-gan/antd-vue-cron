@@ -4,6 +4,7 @@
 - Vue 2.0.0+
 - ant-design-vue 1.7.8+
 
+![image](public/image/Vue-Admin-Template.png)
 
 ## 安装方式
 ```
