@@ -12,7 +12,7 @@
         @click="showModal"
         style="cursor: pointer"
       >
-        显示corn
+        显示cron
       </span>
     </a-input>
     <a-modal
