@@ -7,7 +7,8 @@
     "build": "vue-cli-service build",
     "test": "vue-cli-service build --mode test",
     "lint": "vue-cli-service lint",
-    "buildLib": "vue-cli-service build --target lib --name antdVueCron src/components/index.js"
+    "buildLib": "vue-cli-service build --target lib --name antdVueCron src/components/index.js",
+    "buildWc": "vue-cli-service build --target wc-async --name antd-vue-cron src/components/index.js"
   },
   "dependencies": {
     "ant-design-vue": "^1.7.8",
