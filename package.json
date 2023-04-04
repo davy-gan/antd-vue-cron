@@ -10,6 +10,7 @@
     "buildLib": "vue-cli-service build --target lib --name antdVueCron src/components/index.js",
     "buildWc": "vue-cli-service build --target wc-async --name antd-vue-cron src/components/index.js"
   },
+  "homepage": "https://davy-gan.github.io/antd-vue-cron/dist/index",
   "dependencies": {
     "ant-design-vue": "^1.7.8",
     "core-js": "^3.8.3",
